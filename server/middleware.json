@@ -4,7 +4,7 @@
   },
   "initial": {
     "morgan": {
-      "params": ["dev", { "buffer": true }]
+      "params": ["dev", { "buffer": true } ]
     },
     "compression": {},
     "cors": {
