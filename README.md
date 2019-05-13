@@ -43,7 +43,7 @@ $ npm test
 ```
 
 ## Deployment
-Deployed at [Heroku](https://ae-node200-mongoose-blog-api.herokuapp.com/)
+Deployed at [Heroku](https://ae-node-200-loopback-workshop.herokuapp.com/explorer/)
 
 # My Application
 
