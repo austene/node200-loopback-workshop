@@ -3,10 +3,10 @@
     "loopback#favicon": {}
   },
   "initial": {
+    "compression": {},
     "morgan": {
       "params": ["dev", { "buffer": true } ]
     },
-    "compression": {},
     "cors": {
       "params": {
         "origin": true,
